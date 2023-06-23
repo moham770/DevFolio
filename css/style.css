@@ -335,3 +335,10 @@ nav ul li a:focus::before{
 #contact .icon-groub .iconn:hover a{
     color: #fff !important;
 }
+.scroll{
+   position: fixed;
+    width: 50px;
+    min-height: 50px;
+    bottom: 6%;
+    right: 1.5%;
+}
