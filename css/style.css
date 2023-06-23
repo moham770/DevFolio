@@ -342,3 +342,7 @@ nav ul li a:focus::before{
     bottom: 6%;
     right: 1.5%;
 }
+.scroll a{
+    width: 100%;
+    text-align: center;
+}
