@@ -164,11 +164,12 @@ height: 2px;
         width: 90%;
         margin: auto;
     }
-    nav .container .squar{
-        padding: 0 !important;
-       border: none !important;
-        margin: 4px 12px !important;
-    }
+        .edit-icon{
+            padding: 0;
+            border: none;
+            margin: 4px 12px;
+        }
+
     .navbar-nav .nav-link.active{
       color: #0078ff !important;
     }
